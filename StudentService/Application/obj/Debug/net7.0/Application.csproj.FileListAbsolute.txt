@@ -1,0 +1,15 @@
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/bin/Debug/net7.0/Application.deps.json
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/bin/Debug/net7.0/Application.dll
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/bin/Debug/net7.0/Application.pdb
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/bin/Debug/net7.0/Core.dll
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/bin/Debug/net7.0/Core.pdb
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.dll
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/refint/Application.dll
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/Application.pdb
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Application/obj/Debug/net7.0/ref/Application.dll

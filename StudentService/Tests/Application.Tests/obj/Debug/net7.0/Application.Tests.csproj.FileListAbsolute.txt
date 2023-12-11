@@ -1,0 +1,6 @@
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.AssemblyReference.cache
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/obj/Debug/net7.0/Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfoInputs.cache
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfo.cs
+/home/mahendrabagul/.compage/workdir/first-rest-server-project-dotnet/StudentService/Tests/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.CoreCompileInputs.cache
